@@ -7,4 +7,4 @@ print 'Hello, World' her
 """
 print hvad du vil - dit navn fx
 """
-# print("Mit navn er Jonas Bak Phillipson - og jeg er super awesome")
+# print("My name is Jonas Bak Phillipson - and I am super duper awesome!")
