@@ -1,5 +1,5 @@
 """
 Show correct Python indentation code
 """
-if (True):
+if True:
   print("It works!")
