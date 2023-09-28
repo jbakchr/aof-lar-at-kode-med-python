@@ -13,4 +13,3 @@ To complete this exercise you will need to know about the following things:
 - How the 'escape character' for a new line work
 """
 
-print("*", "**", "***", sep="\n")
