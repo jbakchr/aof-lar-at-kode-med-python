@@ -3,7 +3,8 @@ my_name = "Jonas"
 print(my_name)
 
 # int (i.e. "integer" - da: "heltal")
-my_age = 41
+my_age = "41"
+print(int(my_age) * 2)
 print(my_age)
 
 # float (da: "decimaltal")
@@ -13,6 +14,8 @@ print(my_bank_acount)
 # list (da: "liste")
 monty_phyton_characters = ["King Arthur", "Sir Lancelot", "Knights who say 'Ni!'"]
 print(monty_phyton_characters)
+for char in monty_phyton_characters:
+  print(char)
 
 # tuple (da: "tupel")
 my_tuple = ("Jonas", 41)
@@ -22,8 +25,14 @@ print(my_tuple)
 one_to_ten = range(10)
 print(one_to_ten)
 
+for i in range(1, 11):
+  print(i)
+
+for i in "Jonas":
+  print(i)
+
 # dict (da: "ordbog")
-my_dict = {"awesome": "Jonas"}
+my_dict = {"name": "Jonas", "age": 41}
 print(my_dict)
 
 # set (da: "sæt")
@@ -33,6 +42,10 @@ print(my_set)
 # boolean (da: "boolesk")
 am_i_funny = True
 print(am_i_funny)
+
+if False:
+  print("hurra!")
+
 
 # None (placeholder for nothing)
 the_abyss_consist_of = None
