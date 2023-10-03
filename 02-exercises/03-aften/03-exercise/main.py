@@ -7,7 +7,3 @@ Steps to complete exercise
 - 3) print something if it is
 """
 
-age = 40
-
-if type(age) == int:
-  print("Hurra!")
