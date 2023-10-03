@@ -5,15 +5,15 @@ Quick recap of:
 - 3) data types
 """
 
-# Recap 1: identation
+# RECAP 1: identation
 if True:
   print("I'm indented!")
 
-# Recap 2: Comments
-print("This works!") # This comment works
+# RECAP 2: Comments
+print("This works!") # This comment won't interfere with the print statement
 # print("This won't work")
 
-# Recap 3: Various data types
+# RECAP 3: Various data types
 
 # "str" - i.e. "String"
 name = "Jonas"
