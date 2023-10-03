@@ -18,7 +18,7 @@ print(txt)
 the_dictator = "Guido van Rossum"
 
 print(the_dictator[0])  # will print the capital letter "G"
-print(the_dictator[5])  # will print the first space
+print(the_dictator[5])  # will print the first whitespace
 print(the_dictator[-1]) # will print the last character "m"
 
 
@@ -29,7 +29,7 @@ for char in quote:
   print(char)
 
 
-# EXAMPLE 5 - Check string for string
+# EXAMPLE 5 - Check a string for a string
 text_to_check = "Jonas is a programming god"
 
 if "god" in text_to_check:
