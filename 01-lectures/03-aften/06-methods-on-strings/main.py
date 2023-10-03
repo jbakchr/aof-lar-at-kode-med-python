@@ -13,5 +13,5 @@ print(strip_me.strip())
 
 
 # Example 3 - split string into list elements
-grocery_list = "Apples,Bananas,Beers"
-print(grocery_list.split(","))
+grocery_list = "Apples, Bananas, Beers"
+print(grocery_list.split(", "))

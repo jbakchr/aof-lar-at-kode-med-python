@@ -9,7 +9,7 @@ print(ex1[0:5])
 
 # Example 2 - String slicing only with stop value
 ex2 = "Awesome sauce"
-print(ex2[0:7])
+print(ex2[:7])
 
 
 # Example 3 - String slicing only with start value
