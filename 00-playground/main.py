@@ -1,17 +1,19 @@
 """
 Usind the "print function with multiple "objects"
 """
-print("Hej", "med", "dig", sep="\n")
+# print("Hej", "med", "dig", sep="\n")
 
-class Player:
-  def __init__(self, name):
-    self.name = name
+# class Player:
+#   def __init__(self, name):
+#     self.name = name
 
-  def print_player(self):
-    print(self.name)
+#   def print_player(self):
+#     print(self.name)
 
-august = Player("August")
-jonas = Player("Jonas")
+# august = Player("August")
+# jonas = Player("Jonas")
 
-for i in range(1, 3):
-  print(i)
+# for i in range(1, 3):
+#   print(i)
+
+print(type(str))

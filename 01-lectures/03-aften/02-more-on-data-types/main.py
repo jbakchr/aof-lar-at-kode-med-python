@@ -1,5 +1,5 @@
 """
-Various examples of the constructor functions from different data types
+Examples of the constructor functions and type casting of various data types
 """
 
 # strings
