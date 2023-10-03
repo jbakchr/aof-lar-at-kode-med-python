@@ -10,7 +10,7 @@ Then code the below print statement using the two variables:
 
 As you'll see this will give your a "TypeError" .. try looking up the error before you proceed!
 
-Lastly, fix the error by using the "str" constructor function around the "age" in the print function
+Lastly, fix the error by using the "str" constructor function around the "age" variable reference in the print function
 """
 name = "Jonas"
 age = 41
