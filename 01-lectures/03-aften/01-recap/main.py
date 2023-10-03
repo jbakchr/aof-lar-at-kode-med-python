@@ -2,18 +2,18 @@
 Quick recap of:
 - 1) Indentation
 - 2) Comments
-- 3) 
+- 3) data types
 """
 
-# Example 1: identation
+# Recap 1: identation
 if True:
   print("I'm indented!")
 
-# Example 2: Comments
+# Recap 2: Comments
 print("This works!") # This comment works
 # print("This won't work")
 
-# Example 3: Various data types
+# Recap 3: Various data types
 
 # "str" - i.e. "String"
 name = "Jonas"
