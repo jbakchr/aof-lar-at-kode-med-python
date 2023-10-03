@@ -6,16 +6,19 @@ Various examples of the constructor functions from different data types
 name = str("Jonas")
 
 # integer
-age = int("10")
+number = int(10)
 
-# float
-bank_account = float("10.5")
+# float - with type casting 
+bank_account = float(number)
+print(bank_account)
 
 # boolean
 you_are_awesome = bool(True)
 
 # list
-lst = list(("apple", "banana", "beer"))
+lst = list(["apple", "banana", "apple"])
+print(lst)
 
-# set
-groceries = set(("apple", "banana", "apple"))
+# set - with 
+groceries = set(lst)
+print(groceries)
