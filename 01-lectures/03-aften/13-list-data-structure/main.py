@@ -45,6 +45,6 @@ my_list.insert(1, "cheese")
 print(my_list)
 
 
-# Example ? - looping through a list
+# Example 9 - looping through a list
 for el in my_list:
   print(el)
