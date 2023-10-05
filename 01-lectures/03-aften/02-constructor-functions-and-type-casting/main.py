@@ -19,6 +19,6 @@ you_are_awesome = bool(True)
 lst = list(["apple", "banana", "apple"])
 print(lst)
 
-# set - with 
+# set - with type casting from a "list"
 groceries = set(lst)
 print(groceries)
