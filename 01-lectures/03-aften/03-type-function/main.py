@@ -16,5 +16,5 @@ print(type(groceries))
 
 
 # check if the variable "name" is a string
-if name == str:
+if type(name) == str:
   print("Whoooa .. this variable is indeed a string!")
