@@ -49,14 +49,14 @@ print(txt[-6:-1]) # negative index from index -6 to -1
 for letter in "Hello":
   print(letter)
 
-# get length of string by using the "len" function
+# get length of string by using Pythons built-in "len" function
 print(len("Jonas"))
 
-# check if string contains string
+# check if string is in another string
 if "J" in "Jonas":
   print("The name 'Jonas' does indeed start with a capital 'J'")
 
-# string methods
+# string methods (many more exists ..)
 print(txt.upper()) # prints string in uppercase
 print("  Clean me!   ".strip())
 print("Split, Me, Into, A, List".split(", "))

@@ -14,7 +14,7 @@ ex4 = 10 != 20 # True
 
 # Example 3 - greater than operator
 ex5 = 10 > 10 # False
-ex6 = 10 > 20 # True
+ex6 = 20 > 10 # True
 
 
 # Example - less than operator
