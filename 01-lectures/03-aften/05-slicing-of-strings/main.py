@@ -19,4 +19,4 @@ print(ex3[6:])
 
 # Example 4 - String slicing with negative start and stop values
 ex4 = "We are the knights who say Ni ..."
-print(ex4[-6:-1])
+print(ex4[-6:])

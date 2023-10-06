@@ -23,4 +23,4 @@ first_name = "Jonas"
 middle_name = "Bak"
 last_name = "Phillipson"
 
-print(f"{first_name} {middle_name} {last_name}")
+print(f"Hi my name is {first_name} {middle_name} {last_name}")

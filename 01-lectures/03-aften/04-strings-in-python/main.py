@@ -21,12 +21,14 @@ print(the_dictator[0])  # will print the capital letter "G"
 print(the_dictator[5])  # will print the first whitespace
 print(the_dictator[-1]) # will print the last character "m"
 
+print(the_dictator[1:5])
+
 
 # EXAMPLE 4 - Looping through a string
 quote = "Python"
 
-for char in quote:
-  print(char)
+for i in quote:
+  print(i)
 
 
 # EXAMPLE 5 - Check a string for a string

@@ -6,7 +6,7 @@ Examples of the constructor functions and type casting of various data types
 name = str("Jonas")
 
 # integer
-number = int(10)
+number = int("10")
 
 # float - with type casting 
 bank_account = float(number)
