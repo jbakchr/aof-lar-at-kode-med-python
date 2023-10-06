@@ -6,4 +6,3 @@ In this exercise you are to:
 - 2) Add 3 elements to list
 - 3) Loop through the list printing each element
 """
-
