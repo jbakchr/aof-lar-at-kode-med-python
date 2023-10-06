@@ -15,11 +15,10 @@ Your your job is to:
 def equal_function(num1, num2):
   return num1 == num2
 
-
 # Create your own "not equal function" below this line
 
 
-# Create 2 integer variables called "num1" and "num2" below this line
+# Create 2 integer variables below this line
 
 
 # Call your function like I do it below my function call
