@@ -1,5 +1,5 @@
 """
-EXERCISE
+SOLUTION TO EXERCISE
 
 Steps to complete exercise:
 - 1) Create two integer variables with numbers of your liking

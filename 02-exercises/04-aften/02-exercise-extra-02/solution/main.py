@@ -1,5 +1,5 @@
 """
-EXTRA EXERCISE
+SOLUTION EXTRA EXERCISE
 
 Given that we at least have some experience with looping through lists and text
 you should be able to understand looping by use of Pythons "range" function.
