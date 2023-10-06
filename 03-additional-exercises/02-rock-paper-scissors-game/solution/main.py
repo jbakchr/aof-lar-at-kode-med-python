@@ -11,6 +11,7 @@ To complete such an exercise you'll need to know about the following:
 - both the "and" operator and the "or" operator
 """
 
+# Quick and dirty solution ..
 import random
 
 OPTIONS = ["rock", "paper", "scissor"]
