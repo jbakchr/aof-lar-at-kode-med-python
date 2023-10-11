@@ -1,10 +1,13 @@
 """
-Examples of Python lists and how to process them
+Examples of Python lists
 """
 
-# Example 1 - how to create a list
+# Example 1 - how to create a list with "bracket notation" and constructor function
 my_list = ["apple", "banana", "beer", "chips", "coca cola"]
 print(f"Entire list: {my_list}")
+
+my_second_list = list(("apple", "banana", "beer"))
+print(my_second_list)
 
 
 # Example 2 - how to access an element in a list
