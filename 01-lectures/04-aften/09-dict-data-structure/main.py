@@ -68,3 +68,28 @@ print(car)
 # Example 14 - Removing last inserted item
 car.popitem()
 print(car)
+
+
+# Example 15 - Generel loop that'll show the dicts keys on each iteration
+for key in car:
+  print(f"key is: {key}")
+
+
+# Example 16 - General loop that'll show all values by access of key
+for key in car:
+  print(car[key])
+
+
+# Example 17 - Looping through values
+for val in car.values():
+  print(val)
+
+
+# Example 18 - Loop through keys by use of the "keys()" method
+for k in car.keys():
+  print(k)
+
+
+# Example 19 - Get and loop through both key and value at the same time
+for k, v in car.items():
+  print(k, v)
