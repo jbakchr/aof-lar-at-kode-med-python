@@ -13,7 +13,8 @@ To complete this exercise you should therefor:
 - 4)  Make the function use the if, elif and else control structures like this:
       - 4.1) if the functions "op" parameter is equal to "+" then return the addition of num1 and num2
       - 4.2) elif the functions "op" parameter is equal to "-" then return the subtraction of num1 and num2
-      - 4.3) elif the functions "op" parameter is equal to "*" then return the subtraction of num1 and num2
+      - 4.3) elif the functions "op" parameter is equal to "*" then return the multiplication of num1 and num2
+      - 4.4) else return the division of num1 and num2
 """
 
 def calculator(num1, num2, op):
