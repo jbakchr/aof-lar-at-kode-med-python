@@ -32,5 +32,5 @@ x = 5
 y = 2
 op = "*"
 
-result = calculator(x, op, y)
+result = calculator(x, y, op)
 print(result)
