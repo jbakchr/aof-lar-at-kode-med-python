@@ -32,11 +32,15 @@ def and_function(num1, num2):
     return False
 
 # define your function with the "or" operator below this line
-
+def or_function(num1, num2):
+  return num1 == 5 or num2 != 10
 
 # define you function with the "not" operator below this line
-
+def not_function(num1, num2):
+  return not num1 != num2
 
 # Call your functions like I've called mine below the print statement
 print(and_function(5, 5))
+print(or_function(5, 5))
+print(not_function(5, 5))
 

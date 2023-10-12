@@ -20,3 +20,6 @@ ex6 = 20 > 10 # True
 # Example - less than operator
 ex7 = 10 < 10 # False
 ex8 = 10 < 20 # True
+
+if 10 == 10.0:
+  print("Hurra!")
