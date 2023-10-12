@@ -1,5 +1,5 @@
 """
-ADDITIONAL EXERCISE
+SOLUTION TO ADDITIONAL EXERCISE
 
 In this exercixe you'll create the classic game of 'Rock', 'Paper', 'Scissor'.
 

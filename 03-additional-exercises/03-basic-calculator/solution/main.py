@@ -1,5 +1,5 @@
 """
-ADDITIONAL EXERCISE
+SOLUTION TO ADDITIONAL EXERCISE
 
 In this exercise you are to create a function that'll act as a calculator
 when given two numbers and the operator to use.
