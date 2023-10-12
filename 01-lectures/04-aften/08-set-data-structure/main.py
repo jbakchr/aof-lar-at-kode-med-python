@@ -24,7 +24,8 @@ for el in ex1:
 ex1.add("chips")
 
 
-# Example 6 - Updating a tuple
+
+# Example 6 - Updating a set
 ex3 = {"apples", "bananas", "pears"}
 ex4 = {"beers", "wine", "more alcohol"}
 

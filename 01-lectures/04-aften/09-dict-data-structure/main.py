@@ -91,5 +91,5 @@ for k in car.keys():
 
 
 # Example 19 - Get and loop through both key and value at the same time
-for k, v in car.items():
-  print(k, v)
+for k, mogens in car.items():
+  print(k, mogens)

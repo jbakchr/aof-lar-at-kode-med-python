@@ -26,7 +26,7 @@ print(type(my_tuple))
 # Example 5 - Accessing single elements and ranges of elements by bracket notation
 print(f"Second element is: {my_tuple[1]}")
 print(f"Second last element: {my_tuple[-2]}")
-print(f"First two elements are: {my_tuple[0: 2]}")
+print(f"First two elements are: {my_tuple[0:2]}")
 
 
 # Example 5 - Checking if item is in tuple
