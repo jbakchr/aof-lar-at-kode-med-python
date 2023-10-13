@@ -1,3 +1,3 @@
 # aof-lar-at-kode-med-python
 
-Jonassefkjfskjn
+Repo for AOF course
