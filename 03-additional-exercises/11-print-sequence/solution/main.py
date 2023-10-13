@@ -1,5 +1,5 @@
 """
-ADDITIONAL EXERCISE
+SOLUTION TO ADDITIONAL EXERCISE
 
 Print the following pattern:
 1 
