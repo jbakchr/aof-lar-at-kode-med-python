@@ -12,3 +12,7 @@ To complete this exercise do the following:
 
 """
 
+def text_shortener(txt, start, stop):
+  return txt[start:stop]
+
+print(text_shortener("Jonas", 0, 4))
