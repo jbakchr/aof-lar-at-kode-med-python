@@ -8,7 +8,7 @@ Expected Output:
 24
 """
 
-# A "looping" solution
+# Solution 1 - The "classic" looping way
 def find_max(lst):
     largest_num = lst[0]
     for i in lst[1:]:
@@ -16,7 +16,7 @@ def find_max(lst):
             largest_num = i
     return largest_num
 
-# The quick solution
+# Solution 2 - The most concise way
 def quick_max(lst):
     return max(lst)
 
