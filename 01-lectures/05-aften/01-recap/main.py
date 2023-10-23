@@ -34,7 +34,34 @@ ex9 = 5 < 4   # False
 # Logical operators ("and", "or", "not")
 ex10 = 4 == 4 and 4 != 5  # True
 ex11 = 4 == 4 or 4 != 4   # True
-ex11 = not 4 == 4         # False
+ex12 = not 4 == 4         # False
 
 
 # RECAP 2 - DATA STRUCTURES
+
+# "list" data structure (and some operations on it ..)
+my_list = ["apples", "bananas", "beer", "pears", 42, True, ["The Beatles", "Madonna", "Elvis"]]
+
+# Acessing a list
+ex13 = my_list[0]
+ex14 = my_list[-1]
+ex15 = my_list[1:3]
+
+# Changing a list
+my_list[1] = "milk"
+my_list.append("wine")
+my_list.insert(1, "oranges")
+
+
+# "tuple" data structure (and some operations on it ..)
+my_tuple = ("apple", "banana", "beer", "pears", "chips", "cheese")
+
+# Accessing a tuple
+ex16 = my_tuple[0]
+ex17 = my_tuple[-1]
+ex17 = my_tuple[2:4]
+
+# Unpacking a tuple
+point = (55, 12)
+lat, long = point
+
