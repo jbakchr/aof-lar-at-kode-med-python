@@ -8,3 +8,8 @@ which prints out some text with these arguments:
 
 Call the function replacing the "name" argument with your own name
 """
+
+def my_func(name="Torben", cool=True):
+  print(f"Is {name} cool? {cool}")
+
+my_func(name="Jonas")
