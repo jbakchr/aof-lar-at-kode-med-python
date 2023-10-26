@@ -53,5 +53,7 @@ if 10 == 12:
   print("That's not true!")
 elif 10 == 11:
   print("Yo .. 10 is NOT equal to 11!")
+elif 10 == 200:
+  print("blah")
 else:
   print("10 is 10 .. like True is True .. mind blown!")

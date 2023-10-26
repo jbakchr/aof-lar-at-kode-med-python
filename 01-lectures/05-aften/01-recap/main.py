@@ -65,3 +65,7 @@ ex17 = my_tuple[2:4]
 point = (55, 12)
 lat, long = point
 
+my_sec = set(("apples", "apples"))
+print(my_sec)
+
+d = {"name": "Jonas Bak"}
