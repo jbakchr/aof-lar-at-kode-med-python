@@ -1,0 +1,1 @@
+open https://www.google.com/search?q=python+built-in+functions&oq=python+built-in+functions&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYzMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
