@@ -1,7 +1,8 @@
 """
 Print multiple stuff
 """
-print("Hej Jonas' \"børn\" kan godt lide ost ..")
+
+print("Hi")
 print("my")
 print("name")
 print("is")

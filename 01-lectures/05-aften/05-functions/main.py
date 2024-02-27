@@ -15,7 +15,11 @@ my_function()
 def multiply(num1, num2):
   print(num1 * num2)
 
+multiply(1, 5)
 
 # Example 4 - function that returns some data
 def greet_me(name):
   return f"Hi, {name}"
+
+name = greet_me("Jonas")
+print(name)

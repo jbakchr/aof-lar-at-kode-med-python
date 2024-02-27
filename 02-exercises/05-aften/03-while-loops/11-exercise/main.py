@@ -6,3 +6,8 @@ provided the element is not "beer"
 """
 shopping_list = ["butter", "milk", "beer", "chicken", "other stuff.."]
 
+i = 0
+while i < len(shopping_list):
+  if shopping_list[i] != "beer":
+    print(shopping_list[i])
+  i += 1
