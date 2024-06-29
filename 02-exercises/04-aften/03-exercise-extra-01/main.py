@@ -1,7 +1,7 @@
 """
 EXTRA EXERCISE
 
-In this exercise I've have provided you with a function that compares to integers
+In this exercise I've provided you with a function that compares to integers
 and returns True if the provided numbers are equal.
 
 Your your job is to:
@@ -11,9 +11,10 @@ Your your job is to:
 - 3)  print the result of calling your function
 """
 
+
 # Equal function provided by Jonas
 def equal_function(num1, num2):
-  return num1 == num2
+    return num1 == num2
 
 
 # Create your own "not equal function" below this line

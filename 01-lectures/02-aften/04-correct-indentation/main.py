@@ -1,8 +1,11 @@
 """
 Show correct Python indentation code
 """
-if True:
-  print("It works!")
 
 if True:
-  print("Wauw!")
+    print("It works!")
+    print("sdjhdshj")
+    print("sadsa")
+
+if True:
+    print("Wauw!")

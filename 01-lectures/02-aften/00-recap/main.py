@@ -7,8 +7,17 @@ Recap from first night lecture:
 - 4) Fix your code
 - 5) Learn to look up stuff in the Python documentation https://www.python.org/
 """
+
+# Double quotes
 print("Hello world in double quotes!")
 
-print('Single quotes work too')
+# Single quotes
+print("Single quotes work too")
 
-print("Hej", "med", "dig", sep="-", end="-ost")
+# Print with multiple objects and 'keyword arguments'
+print("Hej", "med", "dig", sep="-", end="----ost")
+
+
+# We alse looked at the built-in 'input' function and could look at others ('len')
+name = input("Hvad er dit navn? ")
+print("Længden af dit navn er", len(name))

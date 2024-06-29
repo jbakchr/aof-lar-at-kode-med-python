@@ -2,7 +2,7 @@
 Print multiple stuff
 """
 
-print("Hi")
+print("Hæ")
 print("my")
 print("name")
 print("is")

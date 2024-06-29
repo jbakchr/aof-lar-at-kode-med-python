@@ -24,3 +24,5 @@ print(num1)
 # Example 4 - Division - num1 becomes 20 again
 num1 /= num2
 print(num1)
+
+print(5 // 2)

@@ -13,9 +13,18 @@ Given this example of how to create a function in Python your job is now to:
 - Create a "division" function
 """
 
+NUMBER = [10, 5]
+
+
+class Person:
+    _name = "Jonas"
+
+
 # Provided "addition" function by Jonas
-def addition(num1, num2):
-  print(num1 + num2)
+def addition(n1, n2):
+    global num1
+    num1 = num1 + n1
+    return num1 + n2
 
 
 # Create your own "subtraction" function here
@@ -30,6 +39,9 @@ def addition(num1, num2):
 num1 = 10
 num2 = 5
 
-addition(num1, num2)
+num1 += 5
+
+print(addition(num1, num2))
+print(num1)
 
 # Call your own functions below

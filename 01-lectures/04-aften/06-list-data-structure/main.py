@@ -30,7 +30,7 @@ print(f"All elements up until index 4: {dont_buy_coca_cola}")
 
 # Example 5 - check if an element is in list
 if "beer" in my_list:
-  print("Beer is awesome!")
+    print("Beer is awesome!")
 
 
 # Example 6 - changing an element in the list
@@ -50,4 +50,4 @@ print(f"Inserting an element at index 1: {my_list}")
 
 # Example 9 - looping through a list
 for el in my_list:
-  print(el)
+    print(el)

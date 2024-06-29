@@ -1,9 +1,5 @@
-"""
-Re-order of multiple print statements
-"""
-print("Hi,")
-print("Jonas")
-print("is")
-print("my")
-print("name")
+comp = "saks"
 
+valg = input("Sten, osv.")
+print(sum([9, 10]))
+len("Jonas Bak Phillipson")

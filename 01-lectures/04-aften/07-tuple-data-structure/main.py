@@ -31,21 +31,22 @@ print(f"First two elements are: {my_tuple[0:2]}")
 
 # Example 5 - Checking if item is in tuple
 if "beer" in my_tuple:
-  print("Beer is awesome!")
+    print("Beer is awesome!")
 
 
 # Example 6 - How update a tuple (since the original cannot be changed)
-change_tuple = ("apple", "pears", "beers") # Original tuple
-change_to_list = list(change_tuple) # Change tuple to list with "list" constructor
-change_to_list[0] = "cheese" # Change an element by bracket notation - here element at index 0
-change_tuple = tuple(change_to_list) # Create new tuple and assign it back to original variable
+change_tuple = ("apple", "pears", "beers")  # Original tuple
+change_to_list = list(change_tuple)  # Change tuple to list with "list" constructor
+change_to_list[0] = (
+    "cheese"  # Change an element by bracket notation - here element at index 0
+)
+change_tuple = tuple(
+    change_to_list
+)  # Create new tuple and assign it back to original variable
 
 
 # Example 7 - Unpack a tuple
-groceries = ("apples", "bananas", "pears")
+groceries = ("apples", "bananas", "pears", "ost")
 
-(x, y, z) = groceries
-print(x, y, z)
-
-
-
+(x, *y) = groceries
+print(x)
