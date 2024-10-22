@@ -14,8 +14,3 @@ also_true = bool(True)
 # Example 3 - Evaluating an expression to a boolean value
 this_is_true = 10 > 9
 this_is_not_true = 10 < 9
-
-
-# Example 4 - Evaluating boolean expression in an "if" statement
-if "J" in "Jonas":
-  print("A 'J' exists in the name 'Jonas'")
